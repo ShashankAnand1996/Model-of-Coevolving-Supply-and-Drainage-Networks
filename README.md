@@ -5,6 +5,6 @@ Title of Manuscript: A minimalist model for co-evolving supply and drainage netw
 
 Authors: Shashank Kumar Anand, Milad Hooshyar, Jan Martin Nordbotten and Amilcare Porporato
 
-Corresponding Author: Amilcare Porporato (aporpora@princeton.edu)
+Corresponding Authors: Shashank Kumar Anand (skanand@princeton.edu) and Amilcare Porporato (aporpora@princeton.edu)
 
 This code uses Landlab (https://github.com/landlab/landlab) functionalities for storing and processing rasters. 
