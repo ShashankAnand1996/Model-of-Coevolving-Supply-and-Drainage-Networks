@@ -1,7 +1,7 @@
 This repository contains the implementation of the proposed model in the manuscript below. 
 The python code is written to generate supply and drainage networks in a raster domain.
 
-Title of Manuscript: A minimalist model for co-evolving supply and drainage networks (https://arxiv.org/abs/2008.02882)
+Title of Manuscript: A minimalist model for co-evolving supply and drainage networks (https://royalsocietypublishing.org/doi/10.1098/rsos.201407)
 
 Authors: Shashank Kumar Anand, Milad Hooshyar, Jan Martin Nordbotten and Amilcare Porporato
 
